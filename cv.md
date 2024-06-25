@@ -32,6 +32,5 @@ multiply = function (a, b) {
 
 #### Languages
 + English (Upper-Intermidiate) according to the online test at EFset [efset.org](https://www.efset.org/ "www.efset.org")
-![English level](D:\rsschool-cv\rsschool-cv\eng-level.png "English level")
 + Russian (Native)
 + German (Intermidiate)
