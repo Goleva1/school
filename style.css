@@ -1,0 +1,74 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.profile-info img {
+    width: 250px; /* Размер фотографии профиля */
+    height: 250px;
+    border-radius: 50%; /* Для округления краев */
+    margin-bottom: 10px;
+}
+.profile-info h1 {
+    margin: 0;
+}
+header {
+    background-color: #ffecd4;
+    color: hwb(0 2% 98%);
+    padding: 20px 0;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+}
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffecd4;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: #333333;
+    color: #fffffffc;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.footer-links img {
+    width: 30px; 
+    height: auto;
+}
